@@ -14,7 +14,7 @@ const Register = () => {
             email:data.get("email"),
             password:data.get("password")
         }
-        console.log("userData",userData);
+        // console.log("userData",userData);
     }
   return (
     <section>
